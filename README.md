@@ -8,7 +8,7 @@ I enjoy working on **LLMs, RAG pipelines, Transformers, AI agents, and intellige
 
 ---
 
-## 🧠 What I Work With
+##  What I Work With
 
 **Languages**
 
@@ -32,9 +32,9 @@ I enjoy working on **LLMs, RAG pipelines, Transformers, AI agents, and intellige
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 Retrieval-Aware Inference Engine
+### Retrieval-Aware Inference Engine
 
 A from-scratch AI inference and RAG system built with Python, PyTorch and Transformers.
 
@@ -47,7 +47,7 @@ A from-scratch AI inference and RAG system built with Python, PyTorch and Transf
 
 ---
 
-### 🎙️ Beta — Intelligent Voice Assistant
+###  Beta — Intelligent Voice Assistant
 
 A hybrid voice assistant combining traditional machine learning with LLM capabilities.
 
@@ -60,7 +60,7 @@ A hybrid voice assistant combining traditional machine learning with LLM capabil
 
 ---
 
-### 🎬 Strovie — OTT Finder
+###  Strovie — OTT Finder
 
 A full-stack platform for discovering and comparing movies and TV shows.
 
@@ -73,7 +73,7 @@ A full-stack platform for discovering and comparing movies and TV shows.
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 ### InsightPilot
 
@@ -91,13 +91,13 @@ Areas I'm working with:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 `FastAPI`  • `Tool Calling` • `AI Agents` • `Agent Evaluation` • `Workflow Automation` • `Langchain`  • `LangGraph`
 
 ---
 
-## 💡 Areas of Interest
+##  Areas of Interest
 
 - Building reliable LLM applications
 - Retrieval-Augmented Generation
@@ -109,7 +109,7 @@ Areas I'm working with:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 **LinkedIn:** [Sagar Mudgal](https://www.linkedin.com/in/sagar-mudgal-217202300/)
 
