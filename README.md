@@ -20,11 +20,11 @@ I enjoy working on **LLMs, RAG pipelines, Transformers, AI agents, and intellige
 
 **LLMs & AI**
 
-`Gemini` `LLM APIs` `Prompt Engineering` `LangChain` `LangGraph`
+`Gemini` `LLM APIs` `Prompt Engineering` 
 
 **Backend & Development**
 
-`REST APIs` `Node.js` `Express.js` `SQL` `MongoDB`
+`REST APIs` `Node.js` `Express.js` `SQL` `MongoDB` 
 
 **Tools**
 
@@ -93,7 +93,7 @@ Areas I'm working with:
 
 ## 🌱 Currently Learning
 
-`FastAPI`  • `Tool Calling` • `AI Agents` • `Agent Evaluation` • `Workflow Automation`
+`FastAPI`  • `Tool Calling` • `AI Agents` • `Agent Evaluation` • `Workflow Automation` • `Langchain`  • `LangGraph`
 
 ---
 
